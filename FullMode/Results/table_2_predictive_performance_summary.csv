@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2
+Ridge Regression,0.0067,0.0092,1.0
+Ridge PCA,5.0122,5.9691,0.6924
+Histogram Gradient Boosting,1.4867,2.8861,0.9198
+Quantum Neural Network,9.5878,11.3746,-0.1021

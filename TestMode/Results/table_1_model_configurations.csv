@@ -1,0 +1,5 @@
+Model,Type,Feature Space / Input Representation
+Ridge Regression,Classical ML,Full telemetry feature set
+Ridge PCA,Classical ML,PCA-reduced telemetry features (n_components=4)
+Histogram Gradient Boosting,Classical ML,Full telemetry feature set
+Quantum Neural Network,Quantum ML,PCA-reduced features encoded into a ZZFeatureMap + RealAmplitudes circuit (n_components=4)

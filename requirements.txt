@@ -1,0 +1,31 @@
+# Core dependencies for F1 Lap Time Prediction Project
+# Classical and Quantum Machine Learning Comparison
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# FastF1 API
+fastf1>=3.0.0
+
+# Classical machine learning
+scikit-learn>=1.3.0
+
+# Quantum machine learning
+qiskit>=0.45.0
+qiskit-machine-learning>=0.7.0
+qiskit-algorithms>=0.2.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Optional: for hyperparameter tuning and resource monitoring
+scipy>=1.10.0
+psutil>=5.9.0  # For resource monitoring (useful in Colab)
+
+# Optional: for GPU-accelerated quantum simulation
+qiskit-aer>=0.13.0  # GPU acceleration for quantum simulators
+
+# Optional: for data profiling and association matrix generation
+ydata-profiling>=4.0.0  # For generating association matrices and data exploration

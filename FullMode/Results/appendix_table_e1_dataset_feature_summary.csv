@@ -1,0 +1,74 @@
+Feature,Abs_Correlation_with_LapTime
+Sector1Time_sec,0.821872
+Sector2Time_sec,0.619781
+Sector3Time_sec,0.599636
+SpeedI1,0.426625
+Sector1Ratio,0.413364
+SpeedFL,0.408282
+SpeedRange,0.402464
+AvgSpeed,0.372643
+MinSpeed,0.343859
+Sector1vs3,0.305593
+LapNumber,0.268667
+Sector2Ratio,0.244037
+TyreLife,0.226046
+Compound_INTERMEDIATE,0.218215
+StintLength,0.192171
+Sector1vs2,0.187017
+MaxSpeed,0.125506
+Compound_SOFT,0.108075
+SpeedST,0.102516
+Position,0.093045
+Sector3Ratio,0.09069
+TrackStatus_1,0.089525
+TrackStatus_12,0.084464
+Driver_MAG,0.084029
+Sector2vs3,0.072601
+Compound_MEDIUM,0.067492
+Team_Alfa Romeo,0.064624
+Stint,0.062422
+Driver_KVY,0.059285
+Driver_ZHO,0.055126
+Team_Haas F1 Team,0.053371
+Compound_WET,0.052192
+Team_Racing Point,0.050053
+Driver_SAI,0.050023
+Driver_HUL,0.04827
+Driver_TSU,0.045707
+Team_Aston Martin,0.044168
+Driver_BOT,0.04397
+Compound_HARD,0.041298
+Driver_GIO,0.040093
+Driver_MSC,0.037989
+Team_Mercedes,0.032548
+Team_Alfa Romeo Racing,0.032172
+Team_McLaren,0.028929
+Team_Ferrari,0.027126
+Driver_KUB,0.026779
+Driver_GRO,0.026561
+Driver_GAS,0.026279
+TrackStatus_21,0.024989
+SpeedI2,0.024899
+Driver_NOR,0.024868
+Driver_STR,0.02464
+Team_Alpine,0.023072
+Team_AlphaTauri,0.019106
+Compound_None,0.018682
+TrackStatus_2,0.016683
+Driver_RIC,0.01668
+Driver_PER,0.016552
+Driver_LEC,0.015912
+Driver_HAM,0.015591
+Team_Red Bull Racing,0.015499
+Team_Williams,0.012373
+Team_Renault,0.011582
+Driver_OCO,0.011546
+Driver_VER,0.011374
+Driver_ALO,0.009924
+Driver_RUS,0.008824
+Driver_ALB,0.008387
+Driver_LAT,0.007667
+Driver_MAZ,0.005768
+Driver_VET,0.001564
+PositionChange,0.0004
+Driver_RAI,0.000179

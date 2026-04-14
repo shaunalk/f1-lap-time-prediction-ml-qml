@@ -1,0 +1,5 @@
+Model,Training Time,Inference Time,Computational Cost
+Ridge Regression,0.0034,0.0016,0.005
+Ridge PCA,0.002,0.0009,0.0029
+Histogram Gradient Boosting,0.0566,0.0018,0.0584
+Quantum Neural Network,1.7785,0.1727,1.9512
